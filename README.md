@@ -1,2 +1,5 @@
 # usagiapi-dart
-The library is written in Dart
+A small library supporting Dart developers of course! Using USAGI API
+
+
+
