@@ -50,4 +50,19 @@ class UsagiAPI {
     var url = _request('/api/tickle');
     return url;
   }
+
+   Future<String> bite() async {
+    var url = _request('/api/bite');
+    return url;
+  }
+
+   Future<String> bowdown() async {
+    var url = _request('/api/bowdown');
+    return url;
+  }
+
+   Future<String> wasted() async {
+    var url = _request('/api/wasted');
+    return url;
+  }
 }
